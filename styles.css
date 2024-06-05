@@ -1,4 +1,7 @@
-html {margin: 5px;
+html {line height: 15px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    margin: 5px;
     padding: 2px;
     background-color: #36393e;
     color: #dcddde;
@@ -6,6 +9,9 @@ html {margin: 5px;
     font-size:17px;
     font-weight:400;
     scroll-behavior:smooth}
+
+    img {height: 70%;
+    width: 70%;}
 
     a {}
     a:link {}

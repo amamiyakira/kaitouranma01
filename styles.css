@@ -10,8 +10,8 @@ html {line height: 15px;
     font-weight:400;
     scroll-behavior:smooth}
 
-    img {height: 50%;
-    width: 50%;}
+    img {width: 100%;
+        object-fit: cover;}
 
     a {}
     a:link {}

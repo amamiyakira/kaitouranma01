@@ -1,0 +1,61 @@
+html {line height: 15px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    margin: 7px;
+    padding: 2px;
+    background-color: #36393e;
+    color: #dcddde;
+    font-family:"gg sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size:17px;
+    font-weight:400;
+    scroll-behavior:smooth}
+
+    .title img {max-height: 400px;
+        max-width: 100%;
+        object-fit: cover;}
+
+    .line img {max-height: 100px;
+        max-width: 100%;
+        object-fit: cover;}
+    
+
+    a {}
+    a:link {}
+    a:visited {}
+    a:focus {}
+    a:hover {}
+    a:active {}
+
+    a {outline-color: transparent;
+        cursor: pointer;
+        text-decoration: none;}
+
+    a:link {border-radius: 5px;
+        padding: 3px;
+        background-color: rgba(88, 101, 242, .3);
+        color: #dee0fc;
+        font-weight: 500;}
+
+    a:visited {border-radius: 5px;
+        padding: 3px;
+        background-color: rgba(88, 101, 242, .3);
+        color: #dee0fc;
+        font-weight: 500;}
+
+    a:focus {text-decoration: underline;
+        border-radius:5px;
+        background-color:#5865F2;
+        color:#ffffff;
+        font-weight:500;
+        }
+
+        a:hover {text-decoration: underline;
+            border-radius:5px;
+            background-color:#5865F2;
+            color:#ffffff;
+            font-weight:500;}
+        a:active {}
+
+font-size:1rem;padding:0.05rem 0.3rem;top:-0.1rem;
+margin-left:0.3rem;line-height:1.3;
+    

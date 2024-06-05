@@ -10,7 +10,7 @@ html {line height: 15px;
     font-weight:400;
     scroll-behavior:smooth}
 
-    img {width: 100%;
+    img {max-width: 100%;
         object-fit: cover;}
 
     a {}
